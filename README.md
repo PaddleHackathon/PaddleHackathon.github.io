@@ -1,2 +1,4 @@
 # PaddleHackathon.github.io
-Paddle Hackathon
+[Paddle Hackathon](http://PaddleHackathon.github.io)
+
+
